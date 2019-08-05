@@ -9,3 +9,5 @@ def insertion_sort(some_list):
     print(count)
     print(some_list)
 insertion_sort(testlist1)
+
+# this is Sam's insertion sort code: 08/05/2019
